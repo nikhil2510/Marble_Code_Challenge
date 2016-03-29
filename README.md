@@ -1,4 +1,4 @@
-# Marble_Code_Challenge
-Developing a sidewalk detector
+
+Developing a sidewalk detector using ROS indigo
 
 The node is named "Sidewalk_Detector".
